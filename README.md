@@ -39,7 +39,7 @@
 
 **< li >** : Listelement
 
-**< img src="*bildlänk*" alt="*bild text här*">** : "Kopiera bildadress" för att ta en bild från internet. Vid användning av uppläsningprogram kommer bildtexten att läsas upp. Lämnas fältet tomt hoppar programmet över bilden
+**< img src="*bildlänk*"alt="*bild text här*">** : "Kopiera bildadress" om du tar en text från internet. Vid användning av uppläsningprogram kommer bildtexten att läsas upp. Lämnas fältet tomt hoppar programmet över bilden
 
 **< a href="*länk/URL*">*länktext*< / a >** : Länktext blir uppläst med uppläsningsprogram
 
