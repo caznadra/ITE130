@@ -17,12 +17,40 @@
 
 ### Strukturtaggar
 
-< html > : Elementet som knyter ihop hela hemsidan. Detta är din **start**.
+**< html >** : Elementet som knyter ihop hela hemsidan. Detta är din **start**.
 
-< head > : Innehåller metadata, dvs. data om datan.
+**< head >** : Innehåller metadata, dvs. data om datan.
 
-< body > : Här förekommer allt synligt på själva webbsidan. Rubriker, text, bilder länkar etc.
+**< titel >** : Ex. namn på hemsidan. Titel på "fliken"
+
+**< body >** : Här förekommer allt synligt på själva webbsidan. Rubriker, text, bilder länkar etc.
+
+---
 
 ### Innehållstaggar
 
-< h1 >, < h2 >, < h3 >, < h4 >, < h5 >, 
+**< h1–6 >** : Utgör rubriker, går från *störst* till *minst*
+
+**< p >** : Paragrafer, inom dessa förekommer din *text*
+
+**< ul >** : Oordnad lista (punkter)
+
+**< ol >** : Ordnad lista (siffror)
+
+**< li >** : Listelement
+
+**< img src="*bildlänk*" alt="*bild text här*">** : "Kopiera bildadress" för att ta en bild från internet. Vid användning av uppläsningprogram kommer bildtexten att läsas upp. Lämnas fältet tomt hoppar programmet över bilden
+
+**< a href="*länk/URL*">*länktext*< / a >** : Länktext blir uppläst med uppläsningsprogram
+
+---
+
+### Texttaggar
+
+**< b >** : **Fet text**
+
+**< i >** : *Kursiv*
+
+**< u >** : Understreck
+
+**< s >** : Streck rakt genom text
