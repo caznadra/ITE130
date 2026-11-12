@@ -1,4 +1,4 @@
-# Hur du bygger upp en **BASIC** HTML text
+# Hur du bygger upp en ***BASIC*** HTML
 ## Cazandras ✨Cheatsheet✨
 
 ### Först lite basics för att förstå uppbyggnaden
