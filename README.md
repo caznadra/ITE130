@@ -51,6 +51,6 @@
 
 **< i >** : *Kursiv*
 
-**< u >** : Understreck
+**< u >** : ~Understreck~
 
 **< s >** : Streck rakt genom text
