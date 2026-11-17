@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(87, 85, 39);
+
+}
+
+nav {
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2px;
+
+}
+.jumbotron {
+    background-color: rgb(237, 197, 197)
+    
+}
+
+.container {
+    color: rgb(87, 85, 39);
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: rgb(186, 127, 123);
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 7px;
+    color: rgb(222, 211, 202);
+}
+
+p {
+    font-family: sans-serif;
+    color: rgb(222, 211, 202);
+
+}
+
+.card-body {
+    background-color: rgb(186, 127, 123);
+}
+
+.card-title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow', sans-serif;
+    letter-spacing: 2px;
+    color: rgb(222, 211, 202);
+    font-size: x-large;
+}
+
+.card-text {
+    font-family: sans-serif;
+    color: rgb(222, 211, 202);
+}
